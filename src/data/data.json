@@ -1,0 +1,64 @@
+{
+    "navbar": [
+        {
+            "title": "overview",
+            "path": "/overview",
+            "icon": "pie_chart"
+        },
+        {
+            "title": "tickets",
+            "path": "/tickets",
+            "icon": "confirmation_number"
+        },
+        {
+            "title": "ideas",
+            "path": "/ideas",
+            "icon": "lightbulb"
+        },
+        {
+            "title": "users",
+            "path": "/",
+            "icon": "person"
+        }
+    ],
+    "genderList": [
+        {
+            "label": "Male",
+            "value": "male"
+        },
+        {
+            "label": "Female",
+            "value": "female"
+        }
+    ],
+    "nationalityList" : [
+        {
+            "label": "United State",
+            "value": "us"
+        },
+        {
+            "label": "Canada",
+            "value": "ca"
+        },
+        {
+            "label": "Germany",
+            "value": "de"
+        },
+        {
+            "label": "Finland",
+            "value": "fi"
+        },
+        {
+            "label": "Turkey",
+            "value": "tr"
+        },
+        {
+            "label": "France",
+            "value": "fr"
+        },
+        {
+            "label": "United Kingdom",
+            "value": "gb"
+        }
+    ]
+}
